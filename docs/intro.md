@@ -6,6 +6,8 @@ sidebar_position: 1
 
 # Overview
 
+I wrote this docs to maintain this project and also in way that will help me when i am deploying next time using vercel and azure VM 
+
 # MathMate AI Project Overview
 
 The idea is pretty simply , I want to create a math tutor for people where they can ask and learn math without any judgement they can ask as many questions as they want and they can learn math in a fun way.
