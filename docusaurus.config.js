@@ -23,7 +23,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/sreehariX/mathmateAI/tree/main/docs/',
+          editUrl: 'https://github.com/sreehariX/mathmate-docs',
         },
         blog: false,
         theme: {
