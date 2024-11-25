@@ -23,7 +23,7 @@ sidebar_position: 4
 
 - For this case solving math problems requires complex reasoning and this model is best suited for that.
 
-- It has better performance in most cases as compred to other models in problem solving.
+- It has better performance in most cases as compared to other models in problem solving.
 
 ## API running out of free tier credits
 - The free tier rate limits are 2RPM , 32000 tokens per day and 50 requests per day.
