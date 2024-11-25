@@ -8,7 +8,7 @@ const config = {
   title: 'mathmateAI',
   tagline: 'Your AI Math Tutor',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.com',
+  url: 'https://mathmate-docs.vercel.app/',
   baseUrl: '/',
   organizationName: 'sreehariX',
   projectName: 'mathmateAI',
@@ -23,7 +23,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: './sidebars.js',
-          editUrl: 'https://github.com/sreehariX/mathmate-docs',
+          editUrl: 'https://github.com/sreehariX/mathmate-docs/blob/main',
         },
         blog: false,
         theme: {
